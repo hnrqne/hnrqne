@@ -20,7 +20,7 @@
 
 <br clear="both">
 
-<p align="center">Hi👋<br>My name is Henrique!<br>I am a huge enthusiast and passionate about technology.<br><br>💻 Studying: I am currently focusing my studies on <strong>Java</strong>, <strong>Spring</strong> and <strong>Angular</strong>.<br>
+<p align="center"><br>Hi👋<br>My name is Henrique!<br>I am a huge enthusiast and passionate about technology.<br><br>💻 Studying: I am currently focusing my studies on <strong>Java</strong>, <strong>Spring</strong> and <strong>Angular</strong>.<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="30" width="42" alt="spring logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" width="42" alt="angularjs logo"  />
