@@ -100,6 +100,6 @@
   <p>✨ Thanks for your attention ✨</p>
 </div>
 
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=aff8f7&height=120&section=header"/> </div>
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=aff8f7&height=120&section=footer"/> </div>
 
 ###
