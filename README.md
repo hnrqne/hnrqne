@@ -27,6 +27,7 @@
 </div>
 
 <p align="left">꒰ Hello, dear visitor!<br>Welcome to my profile. Get ready to meet Henrique, a brave adventurer who has mastered the arts of technology. ꒱<br><br>🗡️ Name: Henrique.<br>🎚️ Level: 19.<br>🧙 Class: Developer.<br>👑 Title: Eternal Apprentice.<br>🎯 Specialization: Student of Information Systems.<br>📚 Skills: Programming Logic, Algorithms, Database, Data Structure, Object Oriented Programming, Teamwork, Empathy, Conflict Resolution, Emotional Intelligence.<br>💡 Goal: Develop technical and social skills to support as many people as possible, adding some value to their lives.</p>
+<br>
 
 ---
 
@@ -53,9 +54,9 @@
 <table align="center">
   <tr>
     <td>
-		<a href="https://discord.com/users/242322377801859086" target="_blank" rel="nofollow">
-			<img src="https://lanyard-profile-readme.vercel.app/api/242322377801859086?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
-		</a>
+	<a href="https://discord.com/users/242322377801859086" target="_blank" rel="nofollow">
+		<img src="https://lanyard-profile-readme.vercel.app/api/242322377801859086?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
+	</a>
     </td>
   </tr>
 </table>
