@@ -1,14 +1,24 @@
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=aff8f7&height=120&section=header"/> </div>
+### 
 
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=hnrqne&height=100&section=header"/>
+</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=800000&size=20&center=true&vCenter=true&width=1000&lines=YOU+ARRIVED+AT+A+CHECKPOINT!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <img height="350" src="https://i.pinimg.com/originals/fa/af/f0/faaff026a9bb1fb8663a482793910e80.gif"  />
+  <img height="350" src="https://i.redd.it/xte6gka2ghj91.gif"  />
 </div>
 
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=After+a+long+journey%2C+you+found+a+peaceful+camp.++Rest+and+stay+as+long+as+you+need.+A+long+journey+still+awaits+you." loading="lazy" alt="Quotes — Try refreshing" /> </p>
 
-<hr style="border: 1px solid black;">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hnrqne&label=Revitalized%20Visitors&color=000205&style=for-the-badge" alt="Profile Views — Try refreshing" /> </p>
+
+---
 
 ###
+
+<img height="200" width="100%" src="https://i.imgur.com/vGNMZQn.png" />
 
 <img align="left" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxWjc_KXyhykzFtOOLfu5N2hbug1p0R-YZdf2L6iqEPywIMmPuXppzcw_AQt10WVezQ&usqp=CAU"  />
 
@@ -88,15 +98,9 @@
 
 <hr style="border: 1px solid black;">
 
-<br><p align="center"><b>Visitors Count</b></p> 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/hnrqne/count.svg?"  />
-  
-</div>
 <br>
 
 <div align="center">
-   <img height="120" src="https://media.tenor.com/2lNQUZDpBkAAAAAi/puffle.gif"  />
   <p>✨ Thanks for your attention ✨</p>
 </div>
 
