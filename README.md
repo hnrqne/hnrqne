@@ -87,6 +87,23 @@
 </details>
 
 ---
+	
+###
+
+## 👨‍💻 Vacuum Discord
+
+[Vacuum](https://discord.gg/vacuum) is a programming and technology community, where the objective is to provide networking with a community of developers from different areas and at different career levels, so that you can exchange experiences and knowledge. In addition, Vacuum also aims to provide a learning environment where members can learn and teach each other through interaction, events, workshops and courses.
+
+Feel free to contact me if you have any questions about Vacuum or want to join the community.
+<div align='center'>
+
+ [![Twitter](https://custom-icon-badges.demolab.com/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VacuumORG)
+ [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/vacuumm/mycompany/)
+ [![Github](https://custom-icon-badges.demolab.com/badge/-Github-181717?style=for-the-badge&logo=github)](https://github.com/VacuumORG)
+
+ [![Discord Invite](https://invidget.switchblade.xyz/vacuum)](http://discord.gg/vacuum)
+
+---
   
 ###
  
