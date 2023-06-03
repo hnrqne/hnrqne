@@ -32,7 +32,7 @@
 
 ###
 
-<img height="560" align="left" src="https://i.imgur.com/2wkhKxK.jpg"  />
+<img height="560" width="450" align="left" src="https://i.imgur.com/2wkhKxK.jpg"  />
 
 <div align="center">
   <img height="60" align="center" src="https://i.imgur.com/VQaztAO.png"  />
