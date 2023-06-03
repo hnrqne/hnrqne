@@ -56,6 +56,7 @@
 		<img src="https://lanyard-profile-readme.vercel.app/api/242322377801859086?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
 	</a>
 </div>
+<br>
 	
 ---
 
