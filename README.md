@@ -51,16 +51,11 @@
   </a>
 
 <p align="center"><br>🌐 Be my friend on Discord: </p>
-<table align="center">
-  <tr>
-    <td>
+<div>
 	<a href="https://discord.com/users/242322377801859086" target="_blank" rel="nofollow">
 		<img src="https://lanyard-profile-readme.vercel.app/api/242322377801859086?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
 	</a>
-    </td>
-  </tr>
-</table>
-
+</div>
 ---
 
 ###
