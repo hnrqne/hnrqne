@@ -33,6 +33,40 @@
 
 ###
 
+<div align="center">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&color=E29C3D&background=FFF5EB00&center=true&vCenter=true&repeat=false&width=500&height=100&lines=LANGUAGES%2C+FRAMEWORKS+AND+TOOLS" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
+	<img height="200" src="https://i.imgur.com/iQ1zBVv.png" />
+</div>
+
+<br>
+
+<details>
+	<summary align="center">꒰ INVENTORY ꒱</summary>
+	<br>
+	<p align="center">
+	  <a href="https://skillicons.dev">
+	    <img src="https://skillicons.dev/icons?i=java,spring,angular" />
+	  </a>
+	    <br>
+	    <br>
+	    <a href="https://skillicons.dev">
+	    <img src="https://skillicons.dev/icons?i=postman,git,github,eclipse,docker,html,css,javascript,c,python" />
+	  </a>
+	</p>
+	<h4 align="center"><q>The overeducated are worse off than the undereducated, having traded common sense for the illusion of knowledge.</q></h4>
+	<h6 align="center">· parchment ·</h6>
+ 	<div align="center">
+		<img height="60" src="https://i.imgur.com/zznkV8P.png">
+	</div>
+</details>
+
+---
+
+###
+
 <img height="560" width="400" align="left" src="https://i.imgur.com/2wkhKxK.jpg"  />
 
 <div align="center">
@@ -58,33 +92,6 @@
 </div>
 <br>
 <br>
-	
----
-
-###
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&color=E29C3D&background=FFF5EB00&center=true&vCenter=true&repeat=false&width=500&height=100&lines=LANGUAGES%2C+FRAMEWORKS+AND+TOOLS" alt="Typing SVG" /></a>
-
-<img height="200" align="center" src="https://i.imgur.com/iQ1zBVv.png" />
-<br>
-<br>
-<details>
-<summary>꒰ INVENTORY ꒱</summary>
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,angular" />
-  </a>
-    <br>
-    <br>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,git,github,eclipse,docker,html,css,javascript,c,python" />
-  </a>
-</p>
-<h4 align="center"><q>The overeducated are worse off than the undereducated, having traded common sense for the illusion of knowledge.</q></h4>
-<h6 align="center">· parchment ·</h6>
-<img height="60" src="https://i.imgur.com/zznkV8P.png">
-</details>
 
 ###
 
