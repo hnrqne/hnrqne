@@ -63,7 +63,7 @@
 
 ###
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&color=E29C3D&background=FFF5EB00&center=true&vCenter=true&repeat=true&width=500&height=100&lines=LANGUAGES%2C+FRAMEWORKS+AND+TOOLS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&color=E29C3D&background=FFF5EB00&center=true&vCenter=true&repeat=false&width=500&height=100&lines=LANGUAGES%2C+FRAMEWORKS+AND+TOOLS" alt="Typing SVG" /></a>
 
 <img height="200" align="center" src="https://i.imgur.com/iQ1zBVv.png" />
 <br>
