@@ -86,17 +86,7 @@
 <img height="60" src="https://i.imgur.com/zznkV8P.png">
 </details>
 
----
-
 ###
- 
-<br>
-<img height="250" align="center" src="https://i.imgur.com/lptumg0.png"  />
-
-<div align="center">
-  <p>thanks for the visit! follow your path and overcome all your obstacles. you can do it, i trust you.
-    <br>✨ just don't give up.✨</p>
-</div>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
